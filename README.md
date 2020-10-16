@@ -1,3 +1,7 @@
-##Workshop - RocketSeat Next Level Week #3
+##Workshop - RocketSeat Next Level Week #3 - Discovery Path
 
-Create a site for registering and searching for fostering houses;
+Creation of a responsive website.
+
+This website was created with a mobile first approach and is a mochup website for regiter and search of fostering houses in a determined area;
+
+The site has interactive maps, registering forms and a visitation apointment page;
