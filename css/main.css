@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  color: white;
+}
+
+body {
+  font: 400 1.8rem/1 "Nunito", Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+/* Animações */
+
+#logo {
+  animation-delay: 50ms;
+}
+
+.location {
+  animation-delay: 100ms;
+}
+
+main h1 {
+  animation-delay: 150ms;
+}
+
+.visit p {
+  animation-delay: 200ms;
+}
+
+.visit a {
+  animation-delay: 250ms;
+}
