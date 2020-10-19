@@ -1,0 +1,23 @@
+{
+  "name": "nlw3",
+  "version": "1.0.0",
+  "description": "Creation of a responsive website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tassiaaccioly/nlw3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tassiaaccioly/nlw3/issues"
+  },
+  "homepage": "https://github.com/tassiaaccioly/nlw3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
